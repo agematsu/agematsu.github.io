@@ -9,3 +9,8 @@ title: Library
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+
+	{% for staff_member in site.web-design %}
+	  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+	  <p>{{ staff_member.content | markdownify }}</p>
+	{% endfor %}
