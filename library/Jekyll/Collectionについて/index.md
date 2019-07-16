@@ -5,4 +5,4 @@ rootにある_postsフォルダには、変数を設定することができる�
 
 
 ## 参考文献
-
+<a href="https://ben.balter.com/2015/02/20/jekyll-collections/">https://ben.balter.com/2015/02/20/jekyll-collections/</a>
