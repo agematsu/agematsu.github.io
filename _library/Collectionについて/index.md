@@ -5,6 +5,6 @@ rootにある_postsフォルダには、変数を設定することができる�
 
 
 ## 参考文献
-<a href="https://ben.balter.com/2015/02/20/jekyll-collections/">https://ben.balter.com/2015/02/20/jekyll-collections/</a>  
+<a href="https://ben.balter.com/2015/02/20/jekyll-collections/">Explain like I’m five: Jekyll collections</a>  
 <a href="https://blog.webjeda.com/jekyll-collections/">3 Easy Steps to Implement Jekyll Collections!</a>
 
