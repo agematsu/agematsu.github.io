@@ -10,5 +10,5 @@ Wordpressを使うのもいいですが、少々大きすぎるシステムで�
 ## 参考文献
 <a href="https://code.makery.ch/blog/making-content-editors-and-web-developers-happy/">Making Content Editors and Web Developers Happy Again</a>
 ## リンク
-<a href="https://code.makery.ch/">code.makery</a>
+<a href="https://code.makery.ch/">code.makery</a><br>
 <a href="https://jekyllrb.com/">Jekyll</a>
