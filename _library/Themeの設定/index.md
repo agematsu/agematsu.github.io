@@ -1,3 +1,3 @@
 ---
-title: THemeの設定
+title: Themeの設定
 ---
