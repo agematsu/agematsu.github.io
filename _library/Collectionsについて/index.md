@@ -2,7 +2,7 @@
 layout: post
 title: Collectionsについて
 ---
-rootにある_postsフォルダには、変数を設定することができるが、
+Jekyllでは、コレクションズというコンテンツをグルーブ化する仕組みがあります。rootにある_postsフォルダには、変数を設定することができるが、
 
 ## 出力方法
 site.collectionsという変数は、collection
