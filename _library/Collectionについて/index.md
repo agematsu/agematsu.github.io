@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: Collectionについて
+title: Collectionについて
 ---
 rootにある_postsフォルダには、変数を設定することができるが、
 
