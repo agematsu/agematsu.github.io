@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: Collectionの使い方
+tittle: Collectionについて
 ---
 rootにある_postsフォルダには、変数を設定することができるが、
 
