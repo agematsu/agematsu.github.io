@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyllでカテゴリー分けする方法
+title: カテゴリー, タグの追加方法
 categories: Jekyll
 ---
 ブログ記事にカテゴリーを設定するのが、CMSを使う目的の一つでもありますので、Jekyllでカテゴリー分けする手順を見ていこうと思います。  
