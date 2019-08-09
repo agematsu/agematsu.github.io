@@ -1,3 +1,3 @@
-HDDからUbuntuをインストロールするには、[UNetBootin](https://unetbootin.github.io/)を使います
+HDDからUbuntuをインストールするには、[UNetBootin](https://unetbootin.github.io/)というソフトを使います。
  
 参考
