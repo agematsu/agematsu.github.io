@@ -1,3 +1,3 @@
-HDDにあた
-[UNetBootin](https://unetbootin.github.io/)を使いましょう  
+HDDからUbuntuをインストロールするには、[UNetBootin](https://unetbootin.github.io/)を使います
+ 
 参考
