@@ -6,6 +6,6 @@
 
 ## USBにパーテーションを作る方法
 
-参考　　
+参考  　　
 [Disk partitioning](https://en.wikipedia.org/wiki/Disk_partitioning)  
 [GNOME Partition Editor](https://gparted.org/index.php)
