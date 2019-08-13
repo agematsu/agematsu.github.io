@@ -4,8 +4,9 @@
 一般的に、それぞれのディスクデバイスは、一つのパーテーションテーブルを持つが、Mac OS Xは、このルールに反する。
 
 
-## USBにパーテーションを作る方法
+## USBメモリにパーテーションを作る方法
 
-参考  　　
+
+参考  
 [Disk partitioning](https://en.wikipedia.org/wiki/Disk_partitioning)  
 [GNOME Partition Editor](https://gparted.org/index.php)
