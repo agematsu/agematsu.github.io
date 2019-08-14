@@ -1,5 +1,5 @@
 # Live USBの作り方
-
+Rufusを使う
 ## Live USBとは何なのか？
 
 ## HDDからBootする方法
@@ -9,5 +9,5 @@ HDDからUbuntuをインストールするには、[UNetBootin](https://unetboot
 ## Bootable USBのリセット方法  
 
 参考  
-[Rufus](https://rufus.ie/)
+[Rufus](https://rufus.ie/)  
 [UNetbootin](https://unetbootin.github.io/)
