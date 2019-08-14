@@ -1,6 +1,6 @@
 # Live USBの作り方
 Rufusを使う
-## Live USBとは何なのか？
+
 
 ## HDDからBootする方法
 HDDからUbuntuをインストールするには、[UNetBootin](https://unetbootin.github.io/)というソフトを使います。
