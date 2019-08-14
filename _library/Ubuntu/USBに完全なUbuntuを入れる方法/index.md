@@ -7,7 +7,7 @@ Live USB:作り方は[この](../Live USB/index.md)ページ
 2.Live USBからGPartedを起動する  
 2.1 Live USBからUbuntuを起動します。  
 2.2 Try Ubuntuを選択します。  
-3.
-4.
+3.  
+4.  
 参考  
 [How to install a complete Ubuntu on a USB Flash Drive](https://www.fosslinux.com/10212/how-to-install-a-complete-ubuntu-on-a-usb-flash-drive.htm)
