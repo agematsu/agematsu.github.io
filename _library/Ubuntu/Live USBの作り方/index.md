@@ -8,6 +8,6 @@ HDDからUbuntuをインストールするには、[UNetBootin](https://unetboot
 
 ## Bootable USBのリセット方法  
 
-参考
+参考  
 [Rufus](https://rufus.ie/)
-
+[UNetbootin](https://unetbootin.github.io/)
