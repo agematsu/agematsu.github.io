@@ -1,7 +1,7 @@
 USBに完全なUbuntuを入れる方法
 
 1. 準備するもの  
-Live USB:作り方は[この](/Live USB/index.md)ページ  
+Live USB:作り方は[この](Ubuntu/Live USB/index.md)ページ  
 空のUSB (Ubuntuを入れるために最低で16GBが必要)
 
 2.Live USBからGPartedを起動する  
