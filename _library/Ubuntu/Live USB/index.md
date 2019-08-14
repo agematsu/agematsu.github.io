@@ -1,4 +1,4 @@
-
+# Live USBの作り方
 
 ## HDDからBootする方法
 HDDからUbuntuをインストールするには、[UNetBootin](https://unetbootin.github.io/)というソフトを使います。
@@ -6,3 +6,4 @@ HDDからUbuntuをインストールするには、[UNetBootin](https://unetboot
 
 ## Bootable USBのリセット方法  
 参考
+[Rufus](https://rufus.ie/)
