@@ -42,5 +42,5 @@ None=---
 ## 参考文献
 [File Permissions in Linux/Unix with Example](https://www.guru99.com/file-permissions.html)  
 [Set the default permissions for newly created files](https://geek-university.com/linux/set-the-default-permissions-for-newly-created-files/)  
-[How to set `umask` for the entire gnome session?](https://unix.stackexchange.com/questions/254378/how-to-set-umask-for-the-entire-gnome-session)
+[How to set `umask` for the entire gnome session?](https://unix.stackexchange.com/questions/254378/how-to-set-umask-for-the-entire-gnome-session)  
 [FilePermissions](https://help.ubuntu.com/community/FilePermissions)
