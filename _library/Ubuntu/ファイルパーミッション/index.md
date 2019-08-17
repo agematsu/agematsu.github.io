@@ -30,14 +30,21 @@ None=---
 -->
 
 ## デフォルトでの設定
-デフォルトでは、umaskの値は044になっています。しかし、GNOMEのソフトでファイルを作るとumaskが022か002のファイルが作成されます。これを解決するためには、acl(Access Controle List)というソフトを使う必要があります。
+Ubuntuで、デフォルトのファイルパーミッションを設定するにはumaskコマンドを使います。　　
+試しに、ターミナルでumaskと入力すると、次のように現在のumask値が表示されます。
 
+デフォルトでは、umaskの値は044になっています。しかし、GNOMEのソフトでファイルを作るとumaskが022か002のファイルが作成されます。これを解決するためには、ACLs(Access Controle List)というソフトを使う必要があります。
+
+<!--
 参考  
 044=-rw--w--w-, drwx-wx-wx  
 022=-rw-r--r--, drwxr-xr-x   gedit  
 002=-rw-rw-r--, drwxrwxr-x   nautilus, others
+-->
 
-
+<!--
+## 外部ストレージのファイルパーミッション
+-->
 
 ## 参考文献
 [File Permissions in Linux/Unix with Example](https://www.guru99.com/file-permissions.html)  
