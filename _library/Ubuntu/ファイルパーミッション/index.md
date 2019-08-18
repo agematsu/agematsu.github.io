@@ -48,7 +48,7 @@ Ubuntuで、デフォルトのファイルパーミッションを設定する�
 ```
 sudo apt-get install acl
 ```
-~~ ## 外部ストレージのファイルパーミッション~~
+## ~~外部ストレージのファイルパーミッション~~
 
 ## 参考文献
 [File Permissions in Linux/Unix with Example](https://www.guru99.com/file-permissions.html)  
