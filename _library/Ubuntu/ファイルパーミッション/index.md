@@ -44,7 +44,10 @@ Ubuntuで、デフォルトのファイルパーミッションを設定する�
 002=-rw-rw-r--, drwxrwxr-x   nautilus, others
 -->
 ## ACLsの使い方
-
+1.ACLsをダウンロードする
+```
+sudo apt-get install acl
+```
 <!--
 ## 外部ストレージのファイルパーミッション
 -->
