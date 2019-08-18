@@ -1,3 +1,3 @@
 # インストール
-sudo apt-get install
+apt-getコマンド
 
