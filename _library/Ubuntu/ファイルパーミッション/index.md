@@ -1,5 +1,4 @@
 # ファイルパーミッション
-Ubuntuにおけるファイルパーミッションの仕組みが分かりにくいので、まとめてみる。
 ## ファイルのオーナーシップ
 Linuxにおけるファイルのオーナーシップは以下の３タイプに分けられる。
 ### ユーザー
@@ -57,4 +56,5 @@ sudo apt-get install acl
 [File Permissions in Linux/Unix with Example](https://www.guru99.com/file-permissions.html)  
 [Set the default permissions for newly created files](https://geek-university.com/linux/set-the-default-permissions-for-newly-created-files/)  
 [How to set `umask` for the entire gnome session?](https://unix.stackexchange.com/questions/254378/how-to-set-umask-for-the-entire-gnome-session)  
-[FilePermissions](https://help.ubuntu.com/community/FilePermissions)
+[FilePermissions](https://help.ubuntu.com/community/FilePermissions)  
+[Chapter 3. access control lists](http://linux-training.be/storage/ch03.html)
