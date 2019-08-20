@@ -8,6 +8,7 @@ $ ls -l test
 -rw-r--r-- 1 username username 0  8月 20 16:15 test
 ```
 |aiueo|aiueo|
+|:--|:--|
 |-| ファイルであることを表しています。|
 |rw-|ユーザー|
 |r--||
