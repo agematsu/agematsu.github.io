@@ -28,18 +28,7 @@ lp:x:7:
 mail:x:8:
 news:x:9:
 ```
-ここで、xはパスワードの置き~$ head /etc/group
-root:x:0:
-daemon:x:1:
-bin:x:2:
-sys:x:3:
-adm:x:4:syslog
-tty:x:5:
-disk:x:6:
-lp:x:7:
-mail:x:8:
-news:x:9:
-場所であることを表しています。  
+ここで、xはパスワードの置き場所であることを表しています。  
 ループは`id`または`groups`コマンドで調べることができる。
 
 ### プライマリーグループとセカンダリーグループ
