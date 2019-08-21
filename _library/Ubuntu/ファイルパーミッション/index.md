@@ -68,13 +68,27 @@ Ubuntuで、デフォルトのファイルパーミッションを設定する�
 -->
 
 ## ACLsの使い方
-1.ACLsをダウンロードする
+1.ACLsの初期設定
+省略
+<!--
 ```
 sudo apt-get install acl
 ```
 ただし、デスクトップ版のUbuntuには初めからACLがインストールされているようです。  
 インストールされているかは、`sudo dpkg -l`コマンドで確かめられます。
-
+-->
+2.`getfacl`コマンド
+ファイルの**acls**を読み込むには`getfacl`コマンドを使います。
+```
+$ getfacl test
+# file: test
+# owner: username
+# group: groupname
+user::rw-
+group::r--
+other::r--
+```
+3. `setfacl`コマンド
 ## ~~外部ストレージのファイルパーミッション~~
 
 ## 参考文献
