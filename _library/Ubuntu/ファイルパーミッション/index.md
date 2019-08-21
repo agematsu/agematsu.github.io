@@ -69,7 +69,7 @@ Ubuntuで、デフォルトのファイルパーミッションを設定する�
 
 ## ACLsの使い方
 1.ACLsの初期設定  
-省略
+
 <!--
 ```
 sudo apt-get install acl
@@ -77,7 +77,7 @@ sudo apt-get install acl
 ただし、デスクトップ版のUbuntuには初めからACLがインストールされているようです。  
 インストールされているかは、`sudo dpkg -l`コマンドで確かめられます。
 -->
-2.`getfacl`コマンド
+2.`getfacl`コマンド  
 ファイルの**acls**を読み込むには`getfacl`コマンドを使います。
 ```
 $ getfacl test
@@ -88,7 +88,7 @@ user::rw-
 group::r--
 other::r--
 ```
-3. `setfacl`コマンド
+3. `setfacl`コマンド  
 ## ~~外部ストレージのファイルパーミッション~~
 
 ## 参考文献
@@ -96,4 +96,5 @@ other::r--
 [Set the default permissions for newly created files](https://geek-university.com/linux/set-the-default-permissions-for-newly-created-files/)  
 [How to set `umask` for the entire gnome session?](https://unix.stackexchange.com/questions/254378/how-to-set-umask-for-the-entire-gnome-session)  
 [FilePermissions](https://help.ubuntu.com/community/FilePermissions)  
+[How to manage ACLs on Linux](https://linuxconfig.org/how-to-manage-acls-on-linux)  
 [Chapter 3. access control lists](http://linux-training.be/storage/ch03.html)
