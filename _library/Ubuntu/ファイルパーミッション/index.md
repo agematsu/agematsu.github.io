@@ -104,7 +104,23 @@ user::rw-
 group::r--
 other::r--
 ```
-### `setfacl`コマンド  
+### `setfacl -m`コマンド
+ファイルの**acls**を変更するには`setfacl -m`コマンドを使います。 
+試しに`test`ファイルで試してみると、次のようになります。 
+```
+$ setfacl -m u:username:rw test && getfacl test
+# file: test
+# owner: username
+# group: groupname
+user::rw-
+user:rnd:rw-
+group::rw-
+mask::rw-
+other::r--
+```
+### `setfacl -x`コマンド
+
+
 <!--
 ## 外部ストレージのファイルパーミッション~~
 -->
@@ -116,3 +132,4 @@ other::r--
 [FilePermissions](https://help.ubuntu.com/community/FilePermissions)  
 [How to manage ACLs on Linux](https://linuxconfig.org/how-to-manage-acls-on-linux)  
 [Chapter 3. access control lists](http://linux-training.be/storage/ch03.html)
+[](https://www.jtp.co.jp/techport/2016-03-02-001/)
