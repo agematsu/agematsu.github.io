@@ -118,6 +118,7 @@ group::rw-
 mask::rw-
 other::r--
 ```
+### mask
 ### `setfacl -x`コマンド
 ### `setfacl -d`コマンド
 ```
