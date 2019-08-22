@@ -83,8 +83,8 @@ Ubuntuで、デフォルトのファイルパーミッションを設定する�
 -->
 
 ## ACLsの使い方
-### ACLsの初期設定  
-
+### ACLsの初期設定
+書きかけ
 <!--
 ```
 sudo apt-get install acl
@@ -105,7 +105,7 @@ group::r--
 other::r--
 ```
 ### `setfacl -m`コマンド
-ファイルの**acls**を変更するには`setfacl -m`コマンドを使います。 
+ファイルの**acls**を変更するには`setfacl -m`コマンドを使います。  
 試しに`test`ファイルで試してみると、次のようになります。 
 ```
 $ setfacl -m u:username:rw test && getfacl test
@@ -119,6 +119,21 @@ mask::rw-
 other::r--
 ```
 ### `setfacl -x`コマンド
+### `setfacl -d`コマンド
+```
+$ setfacl -d -m u:username:rw test && getfacl test
+# file: test
+# owner: username
+# group: groupname
+user::rwx
+group::rwx
+other::r-x
+default:user::rwx
+default:user:rnd:rw-
+default:group::rwx
+default:mask::rwx
+default:other::r-x
+```
 
 
 <!--
