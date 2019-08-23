@@ -111,7 +111,7 @@ $ setfacl -m u:username:rw test && getfacl test
 # owner: username
 # group: groupname
 user::rw-
-user:rnd:rw-
+user:username:rw-
 group::rw-
 mask::rw-
 other::r--
