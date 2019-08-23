@@ -123,7 +123,7 @@ other::r--
 ### `setfacl -d`コマンド
 ディレクトリに
 ```
-$ setfacl -d -m u:username:rw test && getfacl test
+~$ setfacl -d -m o:rw test && getfacl test
 # file: test
 # owner: username
 # group: groupname
@@ -131,23 +131,9 @@ user::rwx
 group::rwx
 other::r-x
 default:user::rwx
-default:user:rnd:rw-
-default:group::rwx
-default:mask::rwx
-default:other::r-x
-```
-
-<pre>~$ setfacl -d -m o:rw test4 &amp;&amp; getfacl test4
-# file: test4
-# owner: rnd
-# group: rnd
-user::rwx
-group::rwx
-other::r-x
-default:user::rwx
 default:group::rwx
 default:other::rw-
-</pre>
+```
 
 
 <!--
