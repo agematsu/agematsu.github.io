@@ -8,7 +8,7 @@ Windowsにログインして、コントロールパネルから**システム�
 ## Step2.  
 Ubuntuがインストールされているパーテーションを右クリックして、ボリュームの削除を選択します。
 <img src="attach:Screenshot from 2019-08-26 16-01-10.png">    
-![代替テキスト](Screenshot from 2019-08-26 16-01-10.png) 
+![代替テキスト](_library/Ubuntu/UbuntuをWindowsとのデュアルブート状態でアンインストールする方法/Screenshot from 2019-08-26 16-01-10.png) 
 <!--
 ## Step3.
 Ubuntu再インストールする
