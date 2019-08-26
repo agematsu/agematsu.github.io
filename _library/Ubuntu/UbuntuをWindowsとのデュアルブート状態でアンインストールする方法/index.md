@@ -7,9 +7,7 @@ Windowsにログインして、コントロールパネルから**システム�
 ディスクマネジメントツールを開きます。  
 ## Step2.  
 Ubuntuがインストールされているパーテーションを右クリックして、ボリュームの削除を選択します。
-<img src="attach:Screenshot from 2019-08-26 16-01-10.png">    
-![代替テキスト](_library/Ubuntu/UbuntuをWindowsとのデュアルブート状態でアンインストールする方法/Screenshot from 2019-08-26 16-01-10.png) 
-<img align="left" width="100" height="100" src="Screenshot from 2019-08-26 16-01-10.png">
+<img align="left" width="100" height="100" src="Screenshot from 2019-08-26 16-01-10.png">  
 <img width="100" height="100" src="Screenshot from 2019-08-26 16-01-10.png">
 
 <!--
