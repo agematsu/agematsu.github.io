@@ -7,7 +7,7 @@ Windowsにログインして、コントロールパネルから**システム�
 ディスクマネジメントツールを開きます。  
 ## Step2.  
 Ubuntuがインストールされているパーテーションを右クリックして、ボリュームの削除を選択します。
-<img src="attach:cat.jpg">
+<img src="attach:Screenshot from 2019-08-26 16-01-10.png">
 <!--
 ## Step3.
 Ubuntu再インストールする
