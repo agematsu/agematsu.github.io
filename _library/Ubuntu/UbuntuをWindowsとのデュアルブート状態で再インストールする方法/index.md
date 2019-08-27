@@ -4,5 +4,5 @@ UbuntuをWindowsとデュアルブートしている状態で、Ubuntuを再イ�
 ## Step 2.
 Biosの設定から、Live USBを差し込んで、
 <p align="center">
- <img width="350" height="250" src="ubuntu install something else fixed.jpg">
+ <img width="350" height="250" src="install option fixed.jpg">
 </p>
