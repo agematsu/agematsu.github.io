@@ -10,6 +10,7 @@ Ubuntuがインストールされているパーテーションを右クリッ�
 <p align="center">
  <img width="300" height="200" src="Screenshot from 2019-08-26 16-01-10.png">
 </p>
+
 ## Step3.
 パーテーションを削除すると、free spaceができます。
 
