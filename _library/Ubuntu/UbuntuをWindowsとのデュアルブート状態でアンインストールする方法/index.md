@@ -8,7 +8,7 @@ Windowsにログインして、コントロールパネルから**システム�
 ## Step2.  
 Ubuntuがインストールされているパーテーションを右クリックして、ボリュームの削除を選択します。   
 <p align="center">
- <img align="center" width="300" height="200" src="Screenshot from 2019-08-26 16-01-10.png">
+ <img width="300" height="200" src="Screenshot from 2019-08-26 16-01-10.png">
 </p>
 
 <!--
