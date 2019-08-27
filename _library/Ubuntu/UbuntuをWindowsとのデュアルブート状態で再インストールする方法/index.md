@@ -2,7 +2,7 @@ UbuntuをWindowsとデュアルブートしている状態で、Ubuntuを再イ�
 ## Step 1.
 まずは、再インストールするためのLive USBを準備します。
 ## Step 2.
-Biosの設定から、uLive USBを差し込んで、
+Biosの設定から、Live USBを差し込んで、
 <p align="center">
  <img width="350" height="250" src="Screenshot from 2019-08-27 08-33-46.png">
 </p>
