@@ -11,7 +11,9 @@ Live USBからブートした後は、インストールソフトを起動して
 </p>
 
 ## Step 4.
-
+<p align="center">
+ <img width="350" height="250" src="install partition fixed.jpg">
+</p>
 
 
 ## 参考文献 
