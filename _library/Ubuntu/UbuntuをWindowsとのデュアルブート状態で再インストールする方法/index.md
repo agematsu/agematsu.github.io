@@ -11,7 +11,7 @@ Live USBからブートした後は、インストーラを起動して、設定
 </p>
 
 ## Step 4.
-そうすると、いよいよパーテーションを設定する画面になります。はじめに、Ubuntuがインストールされているドライブを確認しましょう。私の場合は、/dev/nvme0n1p6にインストールされていることが確認できます。
+いよいよパーテーションを設定する画面になります。はじめに、Ubuntuがインストールされているドライブを確認しましょう。私の場合は、/dev/nvme0n1p6にインストールされていることが確認できます。そうすると、Ubuntuがインストールされているパーテーションを選択してマイナスアイコンをクリックすると、そのパーテーションがfree spaceになります。
 
 <p align="center">
  <img width="350" height="250" src="install partition fixed.jpg">
@@ -21,7 +21,8 @@ Live USBからブートした後は、インストーラを起動して、設定
 このときに、Ubuntuがくらも２つに分かれていることが有ります
 -->
 
-次に、
+## Step 5.
+
 
 ## 参考文献 
 [How to Replace One Linux Distribution With Another From Dual Boot [Keeping Home Partition]](https://itsfoss.com/replace-linux-from-dual-boot/) 
