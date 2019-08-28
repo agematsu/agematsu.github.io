@@ -22,7 +22,7 @@ Live USBからブートした後は、インストーラを起動して、設定
 -->
 
 ## Step 5.
-
+free spaceにrootディレクトリとhomeディレクトリを作っていきます。先程作った、free spaceを選択してプラスアイコンを押し...
 
 ## 参考文献 
 [How to Replace One Linux Distribution With Another From Dual Boot [Keeping Home Partition]](https://itsfoss.com/replace-linux-from-dual-boot/) 
