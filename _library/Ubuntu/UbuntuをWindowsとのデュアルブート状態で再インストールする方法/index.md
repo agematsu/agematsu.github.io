@@ -17,7 +17,11 @@ Live USBからブートした後は、インストーラを起動して、設定
  <img width="350" height="250" src="install partition fixed.jpg">
 </p>
 
-このときに、
+<!--
+このときに、Ubuntuがくらも２つに分かれていることが有ります
+-->
+
+次に、
 
 ## 参考文献 
 [How to Replace One Linux Distribution With Another From Dual Boot [Keeping Home Partition]](https://itsfoss.com/replace-linux-from-dual-boot/) 
