@@ -4,7 +4,7 @@ UbuntuをWindowsとデュアルブートしている状態で、Ubuntuを再イ�
 ## Step 2.
 Biosの設定で、ブートの順番をUSBからにして、Live USBを差し込んだ状態で、再起動します。
 ## Step 3.
-Live USBからブートした後は、インストールソフトを起動して、設定を進めていきます。Install type画面になったら、Something elseを選択してください。
+Live USBからブートした後は、インストーラを起動して、設定を進めていきます。Install type画面になったら、Something elseを選択してください。
 
 <p align="center">
  <img width="350" height="250" src="install option fixed.jpg">
