@@ -6,3 +6,6 @@ Biosの設定から、Live USBを差し込んで、
 <p align="center">
  <img width="350" height="250" src="install option fixed.jpg">
 </p>
+## 参考文献
+[How to Replace One Linux Distribution With Another From Dual Boot [Keeping Home Partition]](https://itsfoss.com/replace-linux-from-dual-boot/)  
+[aiueo](https://itsfoss.com/replace-linux-from-dual-boot/)
