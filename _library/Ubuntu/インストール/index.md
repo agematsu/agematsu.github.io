@@ -1,3 +1,9 @@
 # インストール
-apt-getコマンド
 
+## .debファイル
+## apt-getコマンド
+
+
+## GUI
+Software & Updates
+## Githubからインストールする方法
