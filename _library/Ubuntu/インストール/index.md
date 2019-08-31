@@ -13,3 +13,4 @@ Ubuntuのインストール関連について整理する。
 Software & Updates
 Synapic Package Manager
 ## Githubからインストールする方法
+[How To Install And Remove Software In Ubuntu [Complete Guide]](https://itsfoss.com/remove-install-software-ubuntu/)
