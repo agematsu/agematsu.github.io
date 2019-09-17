@@ -1,0 +1,1 @@
+[the SQL Tutorial](https://mode.com/resources/sql-tutorial/)
